@@ -1,5 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub! Enjoy !
+
+My main focus and skills are in the MERN stack, working on the frontend and backend, making use of API’s in my builds, I love to build with React and Firebase.
+
 <!--
 **7citieswebdesign/7citieswebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
